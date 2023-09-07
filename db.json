@@ -1,10 +1,6 @@
 {
   "books": [
     {
-      "title": "kkdd",
-      "id": 1
-    },
-    {
       "title": "harry potter",
       "id": 2
     }
